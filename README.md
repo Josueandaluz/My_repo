@@ -1,1 +1,1 @@
-Primer ficheroen el repositorio de Josue Andaluz
+Primer fichero en el repositorio de Josue Andaluz
